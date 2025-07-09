@@ -1,0 +1,10 @@
+[
+  {
+    "name": "[COLOR deeppink]THE CREW[/COLOR]",
+    "plugin": "plugin.video.thecrew",
+    "priority": 500,
+    "is_resolvable": true,
+    "play_movie": "plugin://plugin.video.thecrew/?action=play&title={title}&year={year}&imdb={imdb}",
+    "play_episode": "plugin://plugin.video.thecrew/?action=play&title={title}&season={season}&episode={episode}&imdb={imdb}"
+  }
+]
